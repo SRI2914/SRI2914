@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there 👋, I'm Sriyansh!
 
-<!--
-**SRI2914/SRI2914** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+👨‍💻 Versatile Informatica Specialist with 3+ years of experience in **Informatica IICS, IDQ, SQL, Unix/Linux, Bash Scripting, and SOQL**. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 **Expertise**: ETL Processes | IDMC | Cloud Data Integration | Data Quality | DevOps CI/CD | Migration Projects  
+🔹 **Industry Exposure**: Working at Coforge with an international airline client  
+🔹 **Currently Exploring**: Freelancing opportunities in BI & ETL
+
+## 🛠️ Tech Stack
+
+- **Programming & Scripting**: Python, JavaScript, Bash, Dart (Learning)
+- **ETL & Data Integration**: Informatica IICS, PowerCenter, IDQ
+- **Databases**: SQL, PostgreSQL, Salesforce (SOQL)
+- **Cloud & DevOps**: AWS, Terraform, GitHub Actions
+- **Other Tools**: ServiceNow, SalesForce
+
+## 📈 GitHub Stats
+
+![Sriyansh's GitHub Stats](![Sriyansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SRI2914&show_icons=true&theme=radical)
+
+## 📫 Connect with Me
+
+📧 Email: [sriyanshchauhan14@gmail.com](mailto:sriyanshchauhan14@gmail.com)  
+💼 LinkedIn: [Sriyansh Chauhan](www.linkedin.com/in/sriyansh-kumar-b699958b)  
+🌍 Location: Noida, India
