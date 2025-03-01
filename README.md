@@ -18,7 +18,7 @@
 
 ## 📈 GitHub Stats
 
-![Sriyansh's GitHub Stats](![Sriyansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SRI2914&show_icons=true&theme=radical)
+(![Sriyansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SRI2914&show_icons=true&theme=radical)
 
 ## 📫 Connect with Me
 
